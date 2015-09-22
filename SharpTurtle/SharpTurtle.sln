@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpTurtle", "SharpTurtle\SharpTurtle.csproj", "{0DAD58C2-DC6A-421F-9339-95088E18FD4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpTurtleExample", "SharpTurtleExample\SharpTurtleExample.csproj", "{405E4FBD-9BEB-4219-AF3D-629368AC1329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpTurtleTest", "SharpTurtleTest\SharpTurtleTest.csproj", "{DB5F7AF9-4E16-4452-B85C-2682A40D1206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DAD58C2-DC6A-421F-9339-95088E18FD4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DAD58C2-DC6A-421F-9339-95088E18FD4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DAD58C2-DC6A-421F-9339-95088E18FD4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DAD58C2-DC6A-421F-9339-95088E18FD4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{405E4FBD-9BEB-4219-AF3D-629368AC1329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405E4FBD-9BEB-4219-AF3D-629368AC1329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405E4FBD-9BEB-4219-AF3D-629368AC1329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405E4FBD-9BEB-4219-AF3D-629368AC1329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB5F7AF9-4E16-4452-B85C-2682A40D1206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5F7AF9-4E16-4452-B85C-2682A40D1206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5F7AF9-4E16-4452-B85C-2682A40D1206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5F7AF9-4E16-4452-B85C-2682A40D1206}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
