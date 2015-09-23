@@ -83,6 +83,7 @@ namespace SharpTurtleExample.Turtles
             }
         }
 
+        // http://www.algorithm.co.il/blogs/computer-science/fractals-in-10-minutes-no-6-turtle-snowflake/
         private void Fractal(float length, int depth)
         {
             NextColor();
